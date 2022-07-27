@@ -21,3 +21,9 @@ button img{
 .price{
     color: #FA804C;
 }
+
+/* formal section */
+.formal-section-image img{
+    width: 79px;
+    height: 50px;
+}
