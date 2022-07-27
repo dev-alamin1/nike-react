@@ -1,5 +1,20 @@
 /* custom font  */
 
+header{
+    background-color: #FFF9F4;
+    padding: 20px;
+}
+
 .nav-item a{
     font-family: 'Roboto', sans-serif;
 }
+
+button{
+    background-color:linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+button img{
+    width: 24px;
+    height: 24px;
+}
+
